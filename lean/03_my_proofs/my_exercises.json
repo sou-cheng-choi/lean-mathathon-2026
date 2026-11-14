@@ -1,0 +1,11 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "MyProofs.Exercises",
+  "theorem_names": [
+    "adjoint_of_symmetric_is_conjugate",
+    "lift_removes_second_component",
+    "coefficient_from_inner_product"
+  ],
+  "definition_names": [],
+  "permitted_axioms": ["propext", "Quot.sound", "Classical.choice"]
+}

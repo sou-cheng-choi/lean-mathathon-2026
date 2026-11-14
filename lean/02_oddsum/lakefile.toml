@@ -1,0 +1,9 @@
+name = "oddsum"
+version = "0.1.0"
+defaultTargets = ["Oddsum"]
+
+[[lean_lib]]
+name = "Oddsum"
+
+[[lean_lib]]
+name = "Challenge"

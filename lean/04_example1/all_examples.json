@@ -1,0 +1,22 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Example1",
+  "theorem_names": [
+    "matrix_is_symmetric",
+    "solution_is_least_squares",
+    "solution_is_in_adjoint_range",
+    "iterate_is_in_trial_space",
+    "residual_value",
+    "conjugate_residual_value",
+    "iterate_is_stationary",
+    "iterate_is_not_minimum_norm",
+    "lift_coefficient_value",
+    "lift_gives_minimum_norm"
+  ],
+  "definition_names": [],
+  "permitted_axioms": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ]
+}

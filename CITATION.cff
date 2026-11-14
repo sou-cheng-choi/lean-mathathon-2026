@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Code for the talk A Proof Assistant for a Mathematical Algorithm (Caltech Mathathon 2026)"
+type: software
+authors:
+  - family-names: Choi
+    given-names: Sou-Cheng T.
+    affiliation: Illinois Institute of Technology
+    website: "https://www.linkedin.com/in/sou-cheng-choi-7682b65/"
+license: Apache-2.0
+version: "1.0"
+repository-code: "https://github.com/sou-cheng-choi/lean-mathathon-2026"
+keywords:
+  - Lean 4
+  - Mathlib
+  - proof assistant
+  - complex symmetric systems
+  - minimum-norm least squares
